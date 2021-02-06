@@ -36,6 +36,7 @@ footer {
     padding: 20px;
     flex-flow: column;
     text-align: justify;
+    background-color: gray;
 }
 
 .traje {
